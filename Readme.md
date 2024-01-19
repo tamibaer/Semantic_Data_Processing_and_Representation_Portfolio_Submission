@@ -14,11 +14,10 @@ Portfolio Content:
 
 ## Percentage contributions of every team member on every task
 
-Name/Topic | Text generation with Markov Chains | Classification Tutorial | Presentations of two Papers | Capstone Project of your Choice
----------- | ---------------------------------- | ------------------------|-----------------------------|--------------------------------
-Sebastian Baader | Inhalt                       | Inhalt                  | Inhalt                      | Inhalt
-Tamara Bergerhoff | Inhalt                      | Inhalt                  | Inhalt                      | Inhalt
-Marius Oechslein | Inhalt                       | Inhalt                  | Inhalt                      | Inhalt
-Max Werner | Inhalt                             | Inhalt                  | Inhalt                      | Inhalt
----------- | ---------------------------------- | ------------------------|-----------------------------|--------------------------------
-Overall Percantage | Inhalt                             | Inhalt                  | Inhalt                      | Inhalt
+Name/Topic |Sebastian Baader   | Tamara Bergerhoff | Marius Oechslein | Max Werner
+---------- | ------------------| ------------------|------------------|-----------
+Text generation with Markov Chains| Inhalt | Inhalt | Inhalt | Inhalt
+Classification Tutorial | Inhalt | Inhalt | Inhalt | Inhalt
+Presentations of two Papers | Inhalt | Inhalt | Inhalt | Inhalt
+Capstone Project of your Choice | Inhalt | Inhalt | Inhalt | Inhalt
+**Overall Percentage** | Inhalt | Inhalt | Inhalt | Inhalt
