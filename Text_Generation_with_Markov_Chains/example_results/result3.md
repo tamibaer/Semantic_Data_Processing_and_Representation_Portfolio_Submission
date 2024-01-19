@@ -1,0 +1,3 @@
+Zur Erreichung der Klimaziele liegt die Errichtung moderner Gaskraftwerke, um den Fachkräftebedarf für Erziehungsberufe zu sichern ist nur möglich, wenn wir wirtschaftlich und technologisch weiter in der EU aus Gründen des Schutzes der menschlichen Gesundheit nicht zugelassen sind.
+
+To achieve the climate goals lies the construction of modern gas-fired power plants to ensure the need for skilled workers for education professions is only possible if we economically and technologically further in the EU is not allowed for reasons of protection of human health.
